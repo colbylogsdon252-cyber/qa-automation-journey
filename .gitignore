@@ -1,4 +1,15 @@
-pyc
+# Virtual environments
 .venv/
-pyc
+
+# Python bytecode
 __pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# OS files (optional but professional)
+.DS_Store
+
+# VS Code (optional)
+.vscode/
